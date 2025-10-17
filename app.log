@@ -1,0 +1,600 @@
+2025-10-17 14:59:29,202 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-17 14:59:29,203 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-17 14:59:41,904 - INFO - [318356fe] Nouvelle requête - Longueur: 61 caractères
+2025-10-17 14:59:41,907 - INFO - [318356fe] Terminée en 0.00s
+2025-10-17 14:59:41,909 - INFO - 127.0.0.1 - - [17/Oct/2025 14:59:41] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 14:59:41,912 - INFO - [b5fbe37b] Nouvelle requête - Longueur: 50 caractères
+2025-10-17 14:59:41,913 - INFO - [b5fbe37b] Terminée en 0.00s
+2025-10-17 14:59:41,913 - INFO - 127.0.0.1 - - [17/Oct/2025 14:59:41] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 14:59:41,918 - INFO - [d98db62b] Nouvelle requête - Longueur: 50 caractères
+2025-10-17 14:59:46,919 - INFO - [d98db62b] Terminée en 5.00s
+2025-10-17 14:59:46,920 - WARNING - [d98db62b] !!!! REQUÊTE LENTE ! 5.00s
+2025-10-17 14:59:46,922 - INFO - 127.0.0.1 - - [17/Oct/2025 14:59:46] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 14:59:46,926 - INFO - [220bae6b] Nouvelle requête - Longueur: 51 caractères
+2025-10-17 14:59:46,927 - INFO - [220bae6b] Terminée en 0.00s
+2025-10-17 14:59:46,927 - INFO - 127.0.0.1 - - [17/Oct/2025 14:59:46] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 14:59:46,931 - INFO - [60ba63d6] Nouvelle requête - Longueur: 40 caractères
+2025-10-17 14:59:46,932 - INFO - [60ba63d6] Terminée en 0.00s
+2025-10-17 14:59:46,933 - INFO - 127.0.0.1 - - [17/Oct/2025 14:59:46] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 14:59:46,940 - INFO - [9299a184] Nouvelle requête - Longueur: 50 caractères
+2025-10-17 14:59:51,941 - INFO - [9299a184] Terminée en 5.00s
+2025-10-17 14:59:51,942 - WARNING - [9299a184] !!!! REQUÊTE LENTE ! 5.00s
+2025-10-17 14:59:51,943 - INFO - 127.0.0.1 - - [17/Oct/2025 14:59:51] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 14:59:51,948 - INFO - [a6a45b3e] Nouvelle requête - Longueur: 48 caractères
+2025-10-17 14:59:56,749 - INFO - [a6a45b3e] Terminée en 4.80s
+2025-10-17 14:59:56,751 - WARNING - [a6a45b3e] !!!! REQUÊTE LENTE ! 4.80s
+2025-10-17 14:59:56,752 - INFO - 127.0.0.1 - - [17/Oct/2025 14:59:56] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 14:59:56,758 - INFO - [13faa02b] Nouvelle requête - Longueur: 84 caractères
+2025-10-17 15:00:05,159 - INFO - [13faa02b] Terminée en 8.40s
+2025-10-17 15:00:05,160 - WARNING - [13faa02b] !!!! REQUÊTE LENTE ! 8.40s
+2025-10-17 15:00:05,160 - INFO - 127.0.0.1 - - [17/Oct/2025 15:00:05] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:02:38,871 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-17 15:02:38,872 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-17 15:02:48,351 - INFO - [26225ec4] Nouvelle requête - Longueur: 61 caractères
+2025-10-17 15:02:48,356 - INFO - [26225ec4] Terminée en 0.01s - Mémoire: 49.3MB (+0.1MB)
+2025-10-17 15:02:48,357 - INFO - 127.0.0.1 - - [17/Oct/2025 15:02:48] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:02:48,363 - INFO - [170b097d] Nouvelle requête - Longueur: 50 caractères
+2025-10-17 15:02:48,364 - INFO - [170b097d] Terminée en 0.00s - Mémoire: 49.3MB (+0.0MB)
+2025-10-17 15:02:48,365 - INFO - 127.0.0.1 - - [17/Oct/2025 15:02:48] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:02:48,371 - INFO - [f58ef83e] Nouvelle requête - Longueur: 50 caractères
+2025-10-17 15:02:53,373 - INFO - [f58ef83e] Terminée en 5.00s - Mémoire: 49.3MB (+0.0MB)
+2025-10-17 15:02:53,375 - WARNING - [f58ef83e] !!! REQUÊTE LENTE ! 5.00s
+2025-10-17 15:02:53,376 - INFO - 127.0.0.1 - - [17/Oct/2025 15:02:53] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:02:53,383 - INFO - [25a2caf4] Nouvelle requête - Longueur: 51 caractères
+2025-10-17 15:02:53,384 - INFO - [25a2caf4] Terminée en 0.00s - Mémoire: 49.3MB (+0.0MB)
+2025-10-17 15:02:53,385 - INFO - 127.0.0.1 - - [17/Oct/2025 15:02:53] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:02:53,388 - INFO - [7fa4e409] Nouvelle requête - Longueur: 40 caractères
+2025-10-17 15:02:53,389 - INFO - [7fa4e409] Terminée en 0.00s - Mémoire: 49.3MB (+0.0MB)
+2025-10-17 15:02:53,390 - INFO - 127.0.0.1 - - [17/Oct/2025 15:02:53] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:02:53,396 - INFO - [19428d21] Nouvelle requête - Longueur: 50 caractères
+2025-10-17 15:02:58,398 - INFO - [19428d21] Terminée en 5.00s - Mémoire: 49.3MB (+0.0MB)
+2025-10-17 15:02:58,399 - WARNING - [19428d21] !!! REQUÊTE LENTE ! 5.00s
+2025-10-17 15:02:58,400 - INFO - 127.0.0.1 - - [17/Oct/2025 15:02:58] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:02:58,403 - INFO - [bd624c8c] Nouvelle requête - Longueur: 48 caractères
+2025-10-17 15:03:03,205 - INFO - [bd624c8c] Terminée en 4.80s - Mémoire: 49.3MB (+0.0MB)
+2025-10-17 15:03:03,205 - WARNING - [bd624c8c] !!! REQUÊTE LENTE ! 4.80s
+2025-10-17 15:03:03,206 - INFO - 127.0.0.1 - - [17/Oct/2025 15:03:03] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:03:03,211 - INFO - [b7a61eab] Nouvelle requête - Longueur: 84 caractères
+2025-10-17 15:03:11,613 - INFO - [b7a61eab] Terminée en 8.40s - Mémoire: 49.3MB (+0.0MB)
+2025-10-17 15:03:11,614 - WARNING - [b7a61eab] !!! REQUÊTE LENTE ! 8.40s
+2025-10-17 15:03:11,615 - INFO - 127.0.0.1 - - [17/Oct/2025 15:03:11] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:07:28,952 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-17 15:07:28,952 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-17 15:07:36,294 - INFO - [147e5db7] Nouvelle requête - Longueur: 61 caractères - Mots: 10
+2025-10-17 15:07:36,295 - INFO - [147e5db7] Data drift: 59.7%
+2025-10-17 15:07:36,296 - WARNING - [147e5db7] !!! DATA DRIFT ÉLEVÉ (59.7%) !
+2025-10-17 15:07:36,301 - INFO - [147e5db7] Terminée en 0.01s - Mémoire: 45.7MB (+0.1MB)
+2025-10-17 15:07:36,302 - INFO - 127.0.0.1 - - [17/Oct/2025 15:07:36] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:07:36,307 - INFO - [7e11adaa] Nouvelle requête - Longueur: 50 caractères - Mots: 9
+2025-10-17 15:07:36,307 - INFO - [7e11adaa] Data drift: 65.3%
+2025-10-17 15:07:36,308 - WARNING - [7e11adaa] !!! DATA DRIFT ÉLEVÉ (65.3%) !
+2025-10-17 15:07:36,308 - INFO - [7e11adaa] Terminée en 0.00s - Mémoire: 45.7MB (+0.0MB)
+2025-10-17 15:07:36,309 - INFO - 127.0.0.1 - - [17/Oct/2025 15:07:36] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:07:36,313 - INFO - [cbf045b7] Nouvelle requête - Longueur: 50 caractères - Mots: 10
+2025-10-17 15:07:36,314 - INFO - [cbf045b7] Data drift: 63.3%
+2025-10-17 15:07:36,314 - WARNING - [cbf045b7] !!! DATA DRIFT ÉLEVÉ (63.3%) !
+2025-10-17 15:07:41,316 - INFO - [cbf045b7] Terminée en 5.00s - Mémoire: 45.8MB (+0.0MB)
+2025-10-17 15:07:41,317 - WARNING - [cbf045b7] !!! REQUÊTE LENTE ! 5.00s
+2025-10-17 15:07:41,318 - INFO - 127.0.0.1 - - [17/Oct/2025 15:07:41] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:07:41,325 - INFO - [1f5b1f50] Nouvelle requête - Longueur: 51 caractères - Mots: 8
+2025-10-17 15:07:41,326 - INFO - [1f5b1f50] Data drift: 67.0%
+2025-10-17 15:07:41,326 - WARNING - [1f5b1f50] !!! DATA DRIFT ÉLEVÉ (67.0%) !
+2025-10-17 15:07:41,327 - INFO - [1f5b1f50] Terminée en 0.00s - Mémoire: 45.8MB (+0.0MB)
+2025-10-17 15:07:41,328 - INFO - 127.0.0.1 - - [17/Oct/2025 15:07:41] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:07:41,331 - INFO - [77f274ef] Nouvelle requête - Longueur: 40 caractères - Mots: 6
+2025-10-17 15:07:41,332 - INFO - [77f274ef] Data drift: 74.7%
+2025-10-17 15:07:41,333 - WARNING - [77f274ef] !!! DATA DRIFT ÉLEVÉ (74.7%) !
+2025-10-17 15:07:41,333 - INFO - [77f274ef] Terminée en 0.00s - Mémoire: 45.8MB (+0.0MB)
+2025-10-17 15:07:41,334 - INFO - 127.0.0.1 - - [17/Oct/2025 15:07:41] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:07:41,344 - INFO - [0e107319] Nouvelle requête - Longueur: 50 caractères - Mots: 7
+2025-10-17 15:07:41,345 - INFO - [0e107319] Data drift: 69.3%
+2025-10-17 15:07:41,345 - WARNING - [0e107319] !!! DATA DRIFT ÉLEVÉ (69.3%) !
+2025-10-17 15:07:46,346 - INFO - [0e107319] Terminée en 5.00s - Mémoire: 45.8MB (+0.0MB)
+2025-10-17 15:07:46,347 - WARNING - [0e107319] !!! REQUÊTE LENTE ! 5.00s
+2025-10-17 15:07:46,348 - INFO - 127.0.0.1 - - [17/Oct/2025 15:07:46] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:07:46,352 - INFO - [0c2247a1] Nouvelle requête - Longueur: 48 caractères - Mots: 8
+2025-10-17 15:07:46,352 - INFO - [0c2247a1] Data drift: 68.0%
+2025-10-17 15:07:46,353 - WARNING - [0c2247a1] !!! DATA DRIFT ÉLEVÉ (68.0%) !
+2025-10-17 15:07:51,154 - INFO - [0c2247a1] Terminée en 4.80s - Mémoire: 45.8MB (+0.0MB)
+2025-10-17 15:07:51,154 - WARNING - [0c2247a1] !!! REQUÊTE LENTE ! 4.80s
+2025-10-17 15:07:51,155 - INFO - 127.0.0.1 - - [17/Oct/2025 15:07:51] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:07:51,160 - INFO - [dd7fb00b] Nouvelle requête - Longueur: 84 caractères - Mots: 12
+2025-10-17 15:07:51,161 - INFO - [dd7fb00b] Data drift: 48.0%
+2025-10-17 15:07:59,562 - INFO - [dd7fb00b] Terminée en 8.40s - Mémoire: 45.8MB (+0.0MB)
+2025-10-17 15:07:59,563 - WARNING - [dd7fb00b] !!! REQUÊTE LENTE ! 8.40s
+2025-10-17 15:07:59,564 - INFO - 127.0.0.1 - - [17/Oct/2025 15:07:59] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:08:39,481 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-17 15:08:39,482 - INFO - [33mPress CTRL+C to quit[0m
+2025-10-17 15:08:52,936 - INFO - [b2a8b892] Nouvelle requête - Longueur: 61 caractères - Mots: 10
+2025-10-17 15:08:52,937 - INFO - [b2a8b892] Data drift: 59.7%
+2025-10-17 15:08:52,937 - WARNING - [b2a8b892] !!! DATA DRIFT ÉLEVÉ (59.7%) !
+2025-10-17 15:08:52,941 - INFO - [b2a8b892] Terminée en 0.00s - Mémoire: 46.2MB (+0.1MB)
+2025-10-17 15:08:52,942 - INFO - 127.0.0.1 - - [17/Oct/2025 15:08:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:08:52,946 - INFO - [d0d9eefd] Nouvelle requête - Longueur: 50 caractères - Mots: 9
+2025-10-17 15:08:52,947 - INFO - [d0d9eefd] Data drift: 65.3%
+2025-10-17 15:08:52,947 - WARNING - [d0d9eefd] !!! DATA DRIFT ÉLEVÉ (65.3%) !
+2025-10-17 15:08:52,948 - INFO - [d0d9eefd] Terminée en 0.00s - Mémoire: 46.2MB (+0.0MB)
+2025-10-17 15:08:52,949 - INFO - 127.0.0.1 - - [17/Oct/2025 15:08:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:08:52,955 - INFO - [c62a5517] Nouvelle requête - Longueur: 50 caractères - Mots: 10
+2025-10-17 15:08:52,956 - INFO - [c62a5517] Data drift: 63.3%
+2025-10-17 15:08:52,956 - WARNING - [c62a5517] !!! DATA DRIFT ÉLEVÉ (63.3%) !
+2025-10-17 15:08:57,958 - INFO - [c62a5517] Terminée en 5.00s - Mémoire: 46.2MB (+0.0MB)
+2025-10-17 15:08:57,959 - WARNING - [c62a5517] !!! REQUÊTE LENTE ! 5.00s
+2025-10-17 15:08:57,960 - INFO - 127.0.0.1 - - [17/Oct/2025 15:08:57] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:08:57,965 - INFO - [89c51083] Nouvelle requête - Longueur: 51 caractères - Mots: 8
+2025-10-17 15:08:57,965 - INFO - [89c51083] Data drift: 67.0%
+2025-10-17 15:08:57,966 - WARNING - [89c51083] !!! DATA DRIFT ÉLEVÉ (67.0%) !
+2025-10-17 15:08:57,967 - INFO - [89c51083] Terminée en 0.00s - Mémoire: 46.2MB (+0.0MB)
+2025-10-17 15:08:57,967 - INFO - 127.0.0.1 - - [17/Oct/2025 15:08:57] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:08:57,972 - INFO - [74f7529e] Nouvelle requête - Longueur: 40 caractères - Mots: 6
+2025-10-17 15:08:57,972 - INFO - [74f7529e] Data drift: 74.7%
+2025-10-17 15:08:57,973 - WARNING - [74f7529e] !!! DATA DRIFT ÉLEVÉ (74.7%) !
+2025-10-17 15:08:57,974 - INFO - [74f7529e] Terminée en 0.00s - Mémoire: 46.2MB (+0.0MB)
+2025-10-17 15:08:57,975 - INFO - 127.0.0.1 - - [17/Oct/2025 15:08:57] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:08:57,983 - INFO - [81123906] Nouvelle requête - Longueur: 50 caractères - Mots: 7
+2025-10-17 15:08:57,983 - INFO - [81123906] Data drift: 69.3%
+2025-10-17 15:08:57,984 - WARNING - [81123906] !!! DATA DRIFT ÉLEVÉ (69.3%) !
+2025-10-17 15:09:02,985 - INFO - [81123906] Terminée en 5.00s - Mémoire: 46.2MB (+0.0MB)
+2025-10-17 15:09:02,985 - WARNING - [81123906] !!! REQUÊTE LENTE ! 5.00s
+2025-10-17 15:09:02,986 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:02] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:02,990 - INFO - [68f2229d] Nouvelle requête - Longueur: 48 caractères - Mots: 8
+2025-10-17 15:09:02,991 - INFO - [68f2229d] Data drift: 68.0%
+2025-10-17 15:09:02,992 - WARNING - [68f2229d] !!! DATA DRIFT ÉLEVÉ (68.0%) !
+2025-10-17 15:09:07,793 - INFO - [68f2229d] Terminée en 4.80s - Mémoire: 46.2MB (+0.0MB)
+2025-10-17 15:09:07,793 - WARNING - [68f2229d] !!! REQUÊTE LENTE ! 4.80s
+2025-10-17 15:09:07,794 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:07] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:07,797 - INFO - [ea8dca98] Nouvelle requête - Longueur: 84 caractères - Mots: 12
+2025-10-17 15:09:07,798 - INFO - [ea8dca98] Data drift: 48.0%
+2025-10-17 15:09:16,200 - INFO - [ea8dca98] Terminée en 8.40s - Mémoire: 46.2MB (+0.0MB)
+2025-10-17 15:09:16,202 - WARNING - [ea8dca98] !!! REQUÊTE LENTE ! 8.40s
+2025-10-17 15:09:16,204 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:16] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:17,800 - INFO - [5fc1de49] Nouvelle requête - Longueur: 30 caractères - Mots: 6
+2025-10-17 15:09:17,800 - INFO - [5fc1de49] Data drift: 78.0%
+2025-10-17 15:09:17,801 - WARNING - [5fc1de49] !!! DATA DRIFT ÉLEVÉ (78.0%) !
+2025-10-17 15:09:17,802 - INFO - [5fc1de49] Terminée en 0.00s - Mémoire: 46.2MB (+0.0MB)
+2025-10-17 15:09:17,802 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:17] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:17,805 - INFO - [3c95f2f0] Nouvelle requête - Longueur: 39 caractères - Mots: 8
+2025-10-17 15:09:17,806 - INFO - [3c95f2f0] Data drift: 71.0%
+2025-10-17 15:09:17,807 - WARNING - [3c95f2f0] !!! DATA DRIFT ÉLEVÉ (71.0%) !
+2025-10-17 15:09:17,824 - INFO - [3c95f2f0] Terminée en 0.02s - Mémoire: 46.2MB (+0.0MB)
+2025-10-17 15:09:17,825 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:17] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:17,829 - INFO - [a9dc373f] Nouvelle requête - Longueur: 47 caractères - Mots: 9
+2025-10-17 15:09:17,830 - INFO - [a9dc373f] Data drift: 66.3%
+2025-10-17 15:09:17,831 - WARNING - [a9dc373f] !!! DATA DRIFT ÉLEVÉ (66.3%) !
+2025-10-17 15:09:17,832 - INFO - [a9dc373f] Terminée en 0.00s - Mémoire: 46.2MB (+0.0MB)
+2025-10-17 15:09:17,833 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:17] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:17,836 - INFO - [660362ce] Nouvelle requête - Longueur: 40 caractères - Mots: 7
+2025-10-17 15:09:17,837 - INFO - [660362ce] Data drift: 72.7%
+2025-10-17 15:09:17,838 - WARNING - [660362ce] !!! DATA DRIFT ÉLEVÉ (72.7%) !
+2025-10-17 15:09:17,838 - INFO - [660362ce] Terminée en 0.00s - Mémoire: 46.2MB (+0.0MB)
+2025-10-17 15:09:17,839 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:17] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:17,882 - INFO - [7cec3369] Nouvelle requête - Longueur: 28 caractères - Mots: 5
+2025-10-17 15:09:17,882 - INFO - [7cec3369] Data drift: 80.7%
+2025-10-17 15:09:17,883 - WARNING - [7cec3369] !!! DATA DRIFT ÉLEVÉ (80.7%) !
+2025-10-17 15:09:20,683 - ERROR - [7cec3369] !!! ERREUR après 2.80s: division by zero
+2025-10-17 15:09:20,685 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:20] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-10-17 15:09:20,691 - INFO - [b638bac0] Nouvelle requête - Longueur: 32 caractères - Mots: 5
+2025-10-17 15:09:20,692 - INFO - [b638bac0] Data drift: 79.3%
+2025-10-17 15:09:20,692 - WARNING - [b638bac0] !!! DATA DRIFT ÉLEVÉ (79.3%) !
+2025-10-17 15:09:23,893 - ERROR - [b638bac0] !!! ERREUR après 3.20s: division by zero
+2025-10-17 15:09:23,895 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:23] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-10-17 15:09:23,900 - INFO - [8728fd69] Nouvelle requête - Longueur: 66 caractères - Mots: 11
+2025-10-17 15:09:23,900 - INFO - [8728fd69] Data drift: 56.0%
+2025-10-17 15:09:23,901 - WARNING - [8728fd69] !!! DATA DRIFT ÉLEVÉ (56.0%) !
+2025-10-17 15:09:23,902 - ERROR - [8728fd69] !!! ERREUR après 0.00s: division by zero
+2025-10-17 15:09:23,902 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:23] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-10-17 15:09:23,907 - INFO - [743487d9] Nouvelle requête - Longueur: 48 caractères - Mots: 8
+2025-10-17 15:09:23,910 - INFO - [743487d9] Data drift: 68.0%
+2025-10-17 15:09:23,911 - WARNING - [743487d9] !!! DATA DRIFT ÉLEVÉ (68.0%) !
+2025-10-17 15:09:23,912 - ERROR - [743487d9] !!! ERREUR après 0.01s: division by zero
+2025-10-17 15:09:23,913 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:23] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-10-17 15:09:24,026 - INFO - [bd214e78] Nouvelle requête - Longueur: 48 caractères - Mots: 9
+2025-10-17 15:09:24,027 - INFO - [bd214e78] Data drift: 66.0%
+2025-10-17 15:09:24,027 - WARNING - [bd214e78] !!! DATA DRIFT ÉLEVÉ (66.0%) !
+2025-10-17 15:09:28,829 - INFO - [bd214e78] Terminée en 4.80s - Mémoire: 46.2MB (+0.0MB)
+2025-10-17 15:09:28,831 - WARNING - [bd214e78] !!! REQUÊTE LENTE ! 4.80s
+2025-10-17 15:09:28,832 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:28] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:28,837 - INFO - [52ff8337] Nouvelle requête - Longueur: 52 caractères - Mots: 10
+2025-10-17 15:09:28,838 - INFO - [52ff8337] Data drift: 62.7%
+2025-10-17 15:09:28,838 - WARNING - [52ff8337] !!! DATA DRIFT ÉLEVÉ (62.7%) !
+2025-10-17 15:09:28,839 - INFO - [52ff8337] Terminée en 0.00s - Mémoire: 46.2MB (+0.0MB)
+2025-10-17 15:09:28,840 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:28] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:28,844 - INFO - [803bad97] Nouvelle requête - Longueur: 60 caractères - Mots: 12
+2025-10-17 15:09:28,845 - INFO - [803bad97] Data drift: 56.0%
+2025-10-17 15:09:28,846 - WARNING - [803bad97] !!! DATA DRIFT ÉLEVÉ (56.0%) !
+2025-10-17 15:09:28,846 - INFO - [803bad97] Terminée en 0.00s - Mémoire: 46.2MB (+0.0MB)
+2025-10-17 15:09:28,847 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:28] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:28,851 - INFO - [932a6e21] Nouvelle requête - Longueur: 56 caractères - Mots: 11
+2025-10-17 15:09:28,851 - INFO - [932a6e21] Data drift: 59.3%
+2025-10-17 15:09:28,852 - WARNING - [932a6e21] !!! DATA DRIFT ÉLEVÉ (59.3%) !
+2025-10-17 15:09:28,852 - INFO - [932a6e21] Terminée en 0.00s - Mémoire: 46.2MB (+0.0MB)
+2025-10-17 15:09:28,853 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:28] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:28,906 - INFO - [f37e8be7] Nouvelle requête - Longueur: 53 caractères - Mots: 5
+2025-10-17 15:09:28,906 - INFO - [f37e8be7] Data drift: 72.3%
+2025-10-17 15:09:28,907 - WARNING - [f37e8be7] !!! DATA DRIFT ÉLEVÉ (72.3%) !
+2025-10-17 15:09:28,926 - INFO - [f37e8be7] Terminée en 0.02s - Mémoire: 53.8MB (+7.6MB)
+2025-10-17 15:09:28,927 - WARNING - [f37e8be7] !!! GROSSE CONSOMMATION MÉMOIRE ! +7.6MB
+2025-10-17 15:09:28,927 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:28] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:28,930 - INFO - [c8478be9] Nouvelle requête - Longueur: 56 caractères - Mots: 5
+2025-10-17 15:09:28,931 - INFO - [c8478be9] Data drift: 71.3%
+2025-10-17 15:09:28,931 - WARNING - [c8478be9] !!! DATA DRIFT ÉLEVÉ (71.3%) !
+2025-10-17 15:09:28,940 - INFO - [c8478be9] Terminée en 0.01s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:28,941 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:28] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:28,945 - INFO - [3f33184d] Nouvelle requête - Longueur: 69 caractères - Mots: 7
+2025-10-17 15:09:28,946 - INFO - [3f33184d] Data drift: 63.0%
+2025-10-17 15:09:28,946 - WARNING - [3f33184d] !!! DATA DRIFT ÉLEVÉ (63.0%) !
+2025-10-17 15:09:28,955 - INFO - [3f33184d] Terminée en 0.01s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:28,956 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:28] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:28,959 - INFO - [9fc857ed] Nouvelle requête - Longueur: 72 caractères - Mots: 5
+2025-10-17 15:09:28,960 - INFO - [9fc857ed] Data drift: 66.0%
+2025-10-17 15:09:28,960 - WARNING - [9fc857ed] !!! DATA DRIFT ÉLEVÉ (66.0%) !
+2025-10-17 15:09:28,969 - INFO - [9fc857ed] Terminée en 0.01s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:28,970 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:28] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:28,976 - INFO - [5f664f53] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:09:28,977 - INFO - [5f664f53] Data drift: 85.0%
+2025-10-17 15:09:28,977 - WARNING - [5f664f53] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:09:28,978 - INFO - [5f664f53] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:28,979 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:28] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:28,982 - INFO - [f11cda01] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:09:28,982 - INFO - [f11cda01] Data drift: 85.0%
+2025-10-17 15:09:28,983 - WARNING - [f11cda01] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:09:28,983 - INFO - [f11cda01] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:28,984 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:28] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:28,987 - INFO - [61e0f212] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:09:28,987 - INFO - [61e0f212] Data drift: 85.0%
+2025-10-17 15:09:28,988 - WARNING - [61e0f212] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:09:28,988 - INFO - [61e0f212] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:28,989 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:28] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:28,993 - INFO - [346fd9a3] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:09:28,993 - INFO - [346fd9a3] Data drift: 85.0%
+2025-10-17 15:09:28,994 - WARNING - [346fd9a3] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:09:28,994 - INFO - [346fd9a3] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:28,995 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:28] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:28,998 - INFO - [b4482f59] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:09:28,999 - INFO - [b4482f59] Data drift: 85.0%
+2025-10-17 15:09:28,999 - WARNING - [b4482f59] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:09:29,000 - INFO - [b4482f59] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:29,001 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:29,004 - INFO - [e80b4bb6] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:09:29,004 - INFO - [e80b4bb6] Data drift: 85.0%
+2025-10-17 15:09:29,005 - WARNING - [e80b4bb6] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:09:29,005 - INFO - [e80b4bb6] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:29,006 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:29,010 - INFO - [1df63b48] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:09:29,011 - INFO - [1df63b48] Data drift: 85.0%
+2025-10-17 15:09:29,011 - WARNING - [1df63b48] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:09:29,012 - INFO - [1df63b48] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:29,012 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:29,015 - INFO - [b731eae8] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:09:29,016 - INFO - [b731eae8] Data drift: 85.0%
+2025-10-17 15:09:29,016 - WARNING - [b731eae8] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:09:29,017 - INFO - [b731eae8] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:29,018 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:29,021 - INFO - [c0ee8dc2] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:09:29,021 - INFO - [c0ee8dc2] Data drift: 85.0%
+2025-10-17 15:09:29,022 - WARNING - [c0ee8dc2] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:09:29,022 - INFO - [c0ee8dc2] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:29,023 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:29,027 - INFO - [881181ae] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:09:29,028 - INFO - [881181ae] Data drift: 85.0%
+2025-10-17 15:09:29,028 - WARNING - [881181ae] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:09:29,029 - INFO - [881181ae] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:29,030 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:29,032 - INFO - [d42ef238] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:09:29,033 - INFO - [d42ef238] Data drift: 84.7%
+2025-10-17 15:09:29,033 - WARNING - [d42ef238] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:09:29,034 - INFO - [d42ef238] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:29,034 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:29,037 - INFO - [6638b102] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:09:29,038 - INFO - [6638b102] Data drift: 84.7%
+2025-10-17 15:09:29,038 - WARNING - [6638b102] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:09:29,039 - INFO - [6638b102] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:29,040 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:29,044 - INFO - [7a7745ca] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:09:29,044 - INFO - [7a7745ca] Data drift: 84.7%
+2025-10-17 15:09:29,045 - WARNING - [7a7745ca] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:09:29,045 - INFO - [7a7745ca] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:29,046 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:29,049 - INFO - [967a61da] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:09:29,050 - INFO - [967a61da] Data drift: 84.7%
+2025-10-17 15:09:29,050 - WARNING - [967a61da] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:09:29,051 - INFO - [967a61da] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:29,051 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:29,054 - INFO - [478a6bd5] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:09:29,055 - INFO - [478a6bd5] Data drift: 84.7%
+2025-10-17 15:09:29,055 - WARNING - [478a6bd5] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:09:29,056 - INFO - [478a6bd5] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:29,056 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:29,060 - INFO - [b1a8b4f0] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:09:29,061 - INFO - [b1a8b4f0] Data drift: 84.7%
+2025-10-17 15:09:29,062 - WARNING - [b1a8b4f0] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:09:29,062 - INFO - [b1a8b4f0] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:29,063 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:29,067 - INFO - [691d0c00] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:09:29,067 - INFO - [691d0c00] Data drift: 84.7%
+2025-10-17 15:09:29,068 - WARNING - [691d0c00] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:09:29,068 - INFO - [691d0c00] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:29,069 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:29,072 - INFO - [ba6f6224] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:09:29,073 - INFO - [ba6f6224] Data drift: 84.7%
+2025-10-17 15:09:29,074 - WARNING - [ba6f6224] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:09:29,074 - INFO - [ba6f6224] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:29,075 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:29,078 - INFO - [ad22d834] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:09:29,078 - INFO - [ad22d834] Data drift: 84.7%
+2025-10-17 15:09:29,079 - WARNING - [ad22d834] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:09:29,079 - INFO - [ad22d834] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:29,080 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:29,083 - INFO - [6ee19a91] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:09:29,083 - INFO - [6ee19a91] Data drift: 84.7%
+2025-10-17 15:09:29,084 - WARNING - [6ee19a91] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:09:29,084 - INFO - [6ee19a91] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:29,085 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:29,092 - INFO - [0b463328] Nouvelle requête - Longueur: 41 caractères - Mots: 7
+2025-10-17 15:09:29,093 - INFO - [0b463328] Data drift: 72.3%
+2025-10-17 15:09:29,093 - WARNING - [0b463328] !!! DATA DRIFT ÉLEVÉ (72.3%) !
+2025-10-17 15:09:29,093 - ERROR - [0b463328] !!! ERREUR après 0.00s: division by zero
+2025-10-17 15:09:29,094 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-10-17 15:09:29,097 - INFO - [d28f534a] Nouvelle requête - Longueur: 48 caractères - Mots: 9
+2025-10-17 15:09:29,097 - INFO - [d28f534a] Data drift: 66.0%
+2025-10-17 15:09:29,098 - WARNING - [d28f534a] !!! DATA DRIFT ÉLEVÉ (66.0%) !
+2025-10-17 15:09:29,098 - ERROR - [d28f534a] !!! ERREUR après 0.00s: division by zero
+2025-10-17 15:09:29,099 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-10-17 15:09:29,103 - INFO - [f6756b05] Nouvelle requête - Longueur: 24 caractères - Mots: 5
+2025-10-17 15:09:29,104 - INFO - [f6756b05] Data drift: 82.0%
+2025-10-17 15:09:29,104 - WARNING - [f6756b05] !!! DATA DRIFT ÉLEVÉ (82.0%) !
+2025-10-17 15:09:29,105 - INFO - [f6756b05] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:09:29,106 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:09:29,109 - INFO - [3d7faf6c] Nouvelle requête - Longueur: 34 caractères - Mots: 7
+2025-10-17 15:09:29,110 - INFO - [3d7faf6c] Data drift: 74.7%
+2025-10-17 15:09:29,111 - WARNING - [3d7faf6c] !!! DATA DRIFT ÉLEVÉ (74.7%) !
+2025-10-17 15:09:29,111 - ERROR - [3d7faf6c] !!! ERREUR après 0.00s: division by zero
+2025-10-17 15:09:29,112 - INFO - 127.0.0.1 - - [17/Oct/2025 15:09:29] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-10-17 15:57:13,717 - INFO - [fb7e7543] Nouvelle requête - Longueur: 61 caractères - Mots: 10
+2025-10-17 15:57:13,728 - INFO - [fb7e7543] Data drift: 59.7%
+2025-10-17 15:57:13,729 - WARNING - [fb7e7543] !!! DATA DRIFT ÉLEVÉ (59.7%) !
+2025-10-17 15:57:13,753 - INFO - [fb7e7543] Terminée en 0.07s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:13,769 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:13] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:13,779 - INFO - [ca1b6c81] Nouvelle requête - Longueur: 50 caractères - Mots: 9
+2025-10-17 15:57:13,780 - INFO - [ca1b6c81] Data drift: 65.3%
+2025-10-17 15:57:13,780 - WARNING - [ca1b6c81] !!! DATA DRIFT ÉLEVÉ (65.3%) !
+2025-10-17 15:57:14,306 - INFO - [ca1b6c81] Terminée en 0.53s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:14,307 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:14] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:14,313 - INFO - [02579dae] Nouvelle requête - Longueur: 50 caractères - Mots: 10
+2025-10-17 15:57:14,313 - INFO - [02579dae] Data drift: 63.3%
+2025-10-17 15:57:14,314 - WARNING - [02579dae] !!! DATA DRIFT ÉLEVÉ (63.3%) !
+2025-10-17 15:57:19,315 - INFO - [02579dae] Terminée en 5.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:19,316 - WARNING - [02579dae] !!! REQUÊTE LENTE ! 5.00s
+2025-10-17 15:57:19,317 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:19] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:19,323 - INFO - [f3011911] Nouvelle requête - Longueur: 51 caractères - Mots: 8
+2025-10-17 15:57:19,324 - INFO - [f3011911] Data drift: 67.0%
+2025-10-17 15:57:19,324 - WARNING - [f3011911] !!! DATA DRIFT ÉLEVÉ (67.0%) !
+2025-10-17 15:57:19,325 - INFO - [f3011911] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:19,326 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:19] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:19,331 - INFO - [6e829d0c] Nouvelle requête - Longueur: 40 caractères - Mots: 6
+2025-10-17 15:57:19,331 - INFO - [6e829d0c] Data drift: 74.7%
+2025-10-17 15:57:19,332 - WARNING - [6e829d0c] !!! DATA DRIFT ÉLEVÉ (74.7%) !
+2025-10-17 15:57:19,333 - INFO - [6e829d0c] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:19,334 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:19] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:19,342 - INFO - [a0062d88] Nouvelle requête - Longueur: 50 caractères - Mots: 7
+2025-10-17 15:57:19,343 - INFO - [a0062d88] Data drift: 69.3%
+2025-10-17 15:57:19,344 - WARNING - [a0062d88] !!! DATA DRIFT ÉLEVÉ (69.3%) !
+2025-10-17 15:57:24,345 - INFO - [a0062d88] Terminée en 5.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:24,347 - WARNING - [a0062d88] !!! REQUÊTE LENTE ! 5.00s
+2025-10-17 15:57:24,349 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:24] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:24,355 - INFO - [9bde1d3b] Nouvelle requête - Longueur: 48 caractères - Mots: 8
+2025-10-17 15:57:24,356 - INFO - [9bde1d3b] Data drift: 68.0%
+2025-10-17 15:57:24,357 - WARNING - [9bde1d3b] !!! DATA DRIFT ÉLEVÉ (68.0%) !
+2025-10-17 15:57:29,158 - INFO - [9bde1d3b] Terminée en 4.80s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:29,159 - WARNING - [9bde1d3b] !!! REQUÊTE LENTE ! 4.80s
+2025-10-17 15:57:29,160 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:29] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:29,166 - INFO - [bb47ab87] Nouvelle requête - Longueur: 84 caractères - Mots: 12
+2025-10-17 15:57:29,166 - INFO - [bb47ab87] Data drift: 48.0%
+2025-10-17 15:57:37,568 - INFO - [bb47ab87] Terminée en 8.40s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:37,568 - WARNING - [bb47ab87] !!! REQUÊTE LENTE ! 8.40s
+2025-10-17 15:57:37,570 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:37] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:40,660 - INFO - [dd2077d6] Nouvelle requête - Longueur: 30 caractères - Mots: 6
+2025-10-17 15:57:40,661 - INFO - [dd2077d6] Data drift: 78.0%
+2025-10-17 15:57:40,662 - WARNING - [dd2077d6] !!! DATA DRIFT ÉLEVÉ (78.0%) !
+2025-10-17 15:57:40,663 - INFO - [dd2077d6] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:40,663 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:40] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:40,669 - INFO - [788b9972] Nouvelle requête - Longueur: 39 caractères - Mots: 8
+2025-10-17 15:57:40,669 - INFO - [788b9972] Data drift: 71.0%
+2025-10-17 15:57:40,669 - WARNING - [788b9972] !!! DATA DRIFT ÉLEVÉ (71.0%) !
+2025-10-17 15:57:40,670 - INFO - [788b9972] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:40,671 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:40] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:40,676 - INFO - [81da4e57] Nouvelle requête - Longueur: 47 caractères - Mots: 9
+2025-10-17 15:57:40,677 - INFO - [81da4e57] Data drift: 66.3%
+2025-10-17 15:57:40,677 - WARNING - [81da4e57] !!! DATA DRIFT ÉLEVÉ (66.3%) !
+2025-10-17 15:57:40,679 - INFO - [81da4e57] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:40,680 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:40] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:40,684 - INFO - [00df6d5c] Nouvelle requête - Longueur: 40 caractères - Mots: 7
+2025-10-17 15:57:40,685 - INFO - [00df6d5c] Data drift: 72.7%
+2025-10-17 15:57:40,686 - WARNING - [00df6d5c] !!! DATA DRIFT ÉLEVÉ (72.7%) !
+2025-10-17 15:57:40,686 - INFO - [00df6d5c] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:40,687 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:40] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:40,773 - INFO - [2eae9d74] Nouvelle requête - Longueur: 28 caractères - Mots: 5
+2025-10-17 15:57:40,774 - INFO - [2eae9d74] Data drift: 80.7%
+2025-10-17 15:57:40,774 - WARNING - [2eae9d74] !!! DATA DRIFT ÉLEVÉ (80.7%) !
+2025-10-17 15:57:43,575 - ERROR - [2eae9d74] !!! ERREUR après 2.80s: division by zero
+2025-10-17 15:57:43,576 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:43] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-10-17 15:57:43,579 - INFO - [2922a9a6] Nouvelle requête - Longueur: 32 caractères - Mots: 5
+2025-10-17 15:57:43,580 - INFO - [2922a9a6] Data drift: 79.3%
+2025-10-17 15:57:43,581 - WARNING - [2922a9a6] !!! DATA DRIFT ÉLEVÉ (79.3%) !
+2025-10-17 15:57:46,782 - ERROR - [2922a9a6] !!! ERREUR après 3.20s: division by zero
+2025-10-17 15:57:46,783 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:46] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-10-17 15:57:46,786 - INFO - [72a25a3f] Nouvelle requête - Longueur: 66 caractères - Mots: 11
+2025-10-17 15:57:46,787 - INFO - [72a25a3f] Data drift: 56.0%
+2025-10-17 15:57:46,787 - WARNING - [72a25a3f] !!! DATA DRIFT ÉLEVÉ (56.0%) !
+2025-10-17 15:57:46,788 - ERROR - [72a25a3f] !!! ERREUR après 0.00s: division by zero
+2025-10-17 15:57:46,789 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:46] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-10-17 15:57:46,793 - INFO - [d65c6504] Nouvelle requête - Longueur: 48 caractères - Mots: 8
+2025-10-17 15:57:46,794 - INFO - [d65c6504] Data drift: 68.0%
+2025-10-17 15:57:46,794 - WARNING - [d65c6504] !!! DATA DRIFT ÉLEVÉ (68.0%) !
+2025-10-17 15:57:46,795 - ERROR - [d65c6504] !!! ERREUR après 0.00s: division by zero
+2025-10-17 15:57:46,795 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:46] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-10-17 15:57:46,882 - INFO - [75eeec73] Nouvelle requête - Longueur: 48 caractères - Mots: 9
+2025-10-17 15:57:46,883 - INFO - [75eeec73] Data drift: 66.0%
+2025-10-17 15:57:46,883 - WARNING - [75eeec73] !!! DATA DRIFT ÉLEVÉ (66.0%) !
+2025-10-17 15:57:51,684 - INFO - [75eeec73] Terminée en 4.80s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:51,685 - WARNING - [75eeec73] !!! REQUÊTE LENTE ! 4.80s
+2025-10-17 15:57:51,685 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:51] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:51,691 - INFO - [fb4f7c99] Nouvelle requête - Longueur: 52 caractères - Mots: 10
+2025-10-17 15:57:51,692 - INFO - [fb4f7c99] Data drift: 62.7%
+2025-10-17 15:57:51,692 - WARNING - [fb4f7c99] !!! DATA DRIFT ÉLEVÉ (62.7%) !
+2025-10-17 15:57:51,693 - INFO - [fb4f7c99] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:51,694 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:51] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:51,697 - INFO - [b83c1bc1] Nouvelle requête - Longueur: 60 caractères - Mots: 12
+2025-10-17 15:57:51,698 - INFO - [b83c1bc1] Data drift: 56.0%
+2025-10-17 15:57:51,698 - WARNING - [b83c1bc1] !!! DATA DRIFT ÉLEVÉ (56.0%) !
+2025-10-17 15:57:51,699 - INFO - [b83c1bc1] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:51,700 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:51] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:51,704 - INFO - [76ed3c2c] Nouvelle requête - Longueur: 56 caractères - Mots: 11
+2025-10-17 15:57:51,704 - INFO - [76ed3c2c] Data drift: 59.3%
+2025-10-17 15:57:51,705 - WARNING - [76ed3c2c] !!! DATA DRIFT ÉLEVÉ (59.3%) !
+2025-10-17 15:57:51,706 - INFO - [76ed3c2c] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:51,707 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:51] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:51,769 - INFO - [56206acb] Nouvelle requête - Longueur: 53 caractères - Mots: 5
+2025-10-17 15:57:51,769 - INFO - [56206acb] Data drift: 72.3%
+2025-10-17 15:57:51,770 - WARNING - [56206acb] !!! DATA DRIFT ÉLEVÉ (72.3%) !
+2025-10-17 15:57:51,887 - INFO - [56206acb] Terminée en 0.12s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:51,888 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:51] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:51,893 - INFO - [20f1d495] Nouvelle requête - Longueur: 56 caractères - Mots: 5
+2025-10-17 15:57:51,894 - INFO - [20f1d495] Data drift: 71.3%
+2025-10-17 15:57:51,894 - WARNING - [20f1d495] !!! DATA DRIFT ÉLEVÉ (71.3%) !
+2025-10-17 15:57:51,927 - INFO - [20f1d495] Terminée en 0.03s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:51,928 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:51] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:51,934 - INFO - [de844be0] Nouvelle requête - Longueur: 69 caractères - Mots: 7
+2025-10-17 15:57:51,935 - INFO - [de844be0] Data drift: 63.0%
+2025-10-17 15:57:51,935 - WARNING - [de844be0] !!! DATA DRIFT ÉLEVÉ (63.0%) !
+2025-10-17 15:57:51,948 - INFO - [de844be0] Terminée en 0.01s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:51,949 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:51] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:51,956 - INFO - [26817284] Nouvelle requête - Longueur: 72 caractères - Mots: 5
+2025-10-17 15:57:51,956 - INFO - [26817284] Data drift: 66.0%
+2025-10-17 15:57:51,957 - WARNING - [26817284] !!! DATA DRIFT ÉLEVÉ (66.0%) !
+2025-10-17 15:57:51,966 - INFO - [26817284] Terminée en 0.01s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:51,966 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:51] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:51,972 - INFO - [baa161ad] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:57:51,973 - INFO - [baa161ad] Data drift: 85.0%
+2025-10-17 15:57:51,974 - WARNING - [baa161ad] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:57:51,975 - INFO - [baa161ad] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:51,975 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:51] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:51,979 - INFO - [46c98b87] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:57:51,979 - INFO - [46c98b87] Data drift: 85.0%
+2025-10-17 15:57:51,980 - WARNING - [46c98b87] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:57:51,980 - INFO - [46c98b87] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:51,981 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:51] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:51,984 - INFO - [24f17cbc] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:57:51,985 - INFO - [24f17cbc] Data drift: 85.0%
+2025-10-17 15:57:51,985 - WARNING - [24f17cbc] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:57:51,986 - INFO - [24f17cbc] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:51,987 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:51] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:51,991 - INFO - [d95633a5] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:57:51,992 - INFO - [d95633a5] Data drift: 85.0%
+2025-10-17 15:57:51,992 - WARNING - [d95633a5] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:57:51,993 - INFO - [d95633a5] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:51,994 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:51] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:51,998 - INFO - [fd2ce222] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:57:51,999 - INFO - [fd2ce222] Data drift: 85.0%
+2025-10-17 15:57:52,000 - WARNING - [fd2ce222] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:57:52,001 - INFO - [fd2ce222] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:52,002 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:52,005 - INFO - [b5ca6933] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:57:52,005 - INFO - [b5ca6933] Data drift: 85.0%
+2025-10-17 15:57:52,006 - WARNING - [b5ca6933] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:57:52,006 - INFO - [b5ca6933] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:52,008 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:52,011 - INFO - [5f1014e5] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:57:52,011 - INFO - [5f1014e5] Data drift: 85.0%
+2025-10-17 15:57:52,012 - WARNING - [5f1014e5] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:57:52,012 - INFO - [5f1014e5] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:52,013 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:52,017 - INFO - [33fcebfc] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:57:52,017 - INFO - [33fcebfc] Data drift: 85.0%
+2025-10-17 15:57:52,018 - WARNING - [33fcebfc] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:57:52,019 - INFO - [33fcebfc] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:52,020 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:52,024 - INFO - [2a65f4e4] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:57:52,024 - INFO - [2a65f4e4] Data drift: 85.0%
+2025-10-17 15:57:52,025 - WARNING - [2a65f4e4] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:57:52,025 - INFO - [2a65f4e4] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:52,026 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:52,029 - INFO - [dbb0a2b2] Nouvelle requête - Longueur: 21 caractères - Mots: 4
+2025-10-17 15:57:52,030 - INFO - [dbb0a2b2] Data drift: 85.0%
+2025-10-17 15:57:52,030 - WARNING - [dbb0a2b2] !!! DATA DRIFT ÉLEVÉ (85.0%) !
+2025-10-17 15:57:52,031 - INFO - [dbb0a2b2] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:52,031 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:52,035 - INFO - [358e6419] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:57:52,035 - INFO - [358e6419] Data drift: 84.7%
+2025-10-17 15:57:52,035 - WARNING - [358e6419] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:57:52,036 - INFO - [358e6419] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:52,037 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:52,041 - INFO - [bd69e291] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:57:52,042 - INFO - [bd69e291] Data drift: 84.7%
+2025-10-17 15:57:52,042 - WARNING - [bd69e291] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:57:52,043 - INFO - [bd69e291] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:52,044 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:52,047 - INFO - [5d7cc02e] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:57:52,047 - INFO - [5d7cc02e] Data drift: 84.7%
+2025-10-17 15:57:52,047 - WARNING - [5d7cc02e] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:57:52,048 - INFO - [5d7cc02e] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:52,048 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:52,052 - INFO - [52346e04] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:57:52,052 - INFO - [52346e04] Data drift: 84.7%
+2025-10-17 15:57:52,053 - WARNING - [52346e04] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:57:52,053 - INFO - [52346e04] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:52,054 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:52,058 - INFO - [da4ce792] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:57:52,059 - INFO - [da4ce792] Data drift: 84.7%
+2025-10-17 15:57:52,059 - WARNING - [da4ce792] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:57:52,060 - INFO - [da4ce792] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:52,060 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:52,063 - INFO - [191d89ac] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:57:52,064 - INFO - [191d89ac] Data drift: 84.7%
+2025-10-17 15:57:52,064 - WARNING - [191d89ac] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:57:52,065 - INFO - [191d89ac] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:52,065 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:52,069 - INFO - [703340f0] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:57:52,069 - INFO - [703340f0] Data drift: 84.7%
+2025-10-17 15:57:52,070 - WARNING - [703340f0] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:57:52,070 - INFO - [703340f0] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:52,071 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:52,077 - INFO - [66b70e15] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:57:52,078 - INFO - [66b70e15] Data drift: 84.7%
+2025-10-17 15:57:52,078 - WARNING - [66b70e15] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:57:52,079 - INFO - [66b70e15] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:52,080 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:52,083 - INFO - [62c3dbbb] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:57:52,084 - INFO - [62c3dbbb] Data drift: 84.7%
+2025-10-17 15:57:52,084 - WARNING - [62c3dbbb] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:57:52,085 - INFO - [62c3dbbb] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:52,085 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:52,088 - INFO - [24f0ee30] Nouvelle requête - Longueur: 22 caractères - Mots: 4
+2025-10-17 15:57:52,089 - INFO - [24f0ee30] Data drift: 84.7%
+2025-10-17 15:57:52,089 - WARNING - [24f0ee30] !!! DATA DRIFT ÉLEVÉ (84.7%) !
+2025-10-17 15:57:52,090 - INFO - [24f0ee30] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:52,091 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:52,097 - INFO - [13fe1f55] Nouvelle requête - Longueur: 41 caractères - Mots: 7
+2025-10-17 15:57:52,098 - INFO - [13fe1f55] Data drift: 72.3%
+2025-10-17 15:57:52,098 - WARNING - [13fe1f55] !!! DATA DRIFT ÉLEVÉ (72.3%) !
+2025-10-17 15:57:52,099 - ERROR - [13fe1f55] !!! ERREUR après 0.00s: division by zero
+2025-10-17 15:57:52,100 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-10-17 15:57:52,103 - INFO - [d11f55fb] Nouvelle requête - Longueur: 48 caractères - Mots: 9
+2025-10-17 15:57:52,103 - INFO - [d11f55fb] Data drift: 66.0%
+2025-10-17 15:57:52,104 - WARNING - [d11f55fb] !!! DATA DRIFT ÉLEVÉ (66.0%) !
+2025-10-17 15:57:52,104 - ERROR - [d11f55fb] !!! ERREUR après 0.00s: division by zero
+2025-10-17 15:57:52,105 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-10-17 15:57:52,109 - INFO - [a7df8496] Nouvelle requête - Longueur: 24 caractères - Mots: 5
+2025-10-17 15:57:52,110 - INFO - [a7df8496] Data drift: 82.0%
+2025-10-17 15:57:52,111 - WARNING - [a7df8496] !!! DATA DRIFT ÉLEVÉ (82.0%) !
+2025-10-17 15:57:52,111 - INFO - [a7df8496] Terminée en 0.00s - Mémoire: 54.0MB (+0.0MB)
+2025-10-17 15:57:52,112 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "POST /analyze HTTP/1.1" 200 -
+2025-10-17 15:57:52,149 - INFO - [f317f4a8] Nouvelle requête - Longueur: 34 caractères - Mots: 7
+2025-10-17 15:57:52,158 - INFO - [f317f4a8] Data drift: 74.7%
+2025-10-17 15:57:52,163 - WARNING - [f317f4a8] !!! DATA DRIFT ÉLEVÉ (74.7%) !
+2025-10-17 15:57:52,164 - ERROR - [f317f4a8] !!! ERREUR après 0.01s: division by zero
+2025-10-17 15:57:52,165 - INFO - 127.0.0.1 - - [17/Oct/2025 15:57:52] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
